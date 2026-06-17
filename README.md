@@ -159,6 +159,14 @@ Infrastructure treated as code, pipelines as security gates.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="dist/github-contribution-grid-snake.svg" alt="Snake Contribution">
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -187,13 +195,6 @@ Infrastructure treated as code, pipelines as security gates.
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=oukil078-oss&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" alt="Top Languages">
 </p>
-
-<!-- Optional: Snake Contribution Animation (requires workflow) -->
-<!--
-<p align="center">
-  <img src="https://github.com/oukil078-oss/oukil078-oss/output/github-contribution-grid-snake.svg" alt="Snake Contribution">
-</p>
--->
 
 <p align="center">
   <em>“The best defense is a good understanding of the offense.”</em>
