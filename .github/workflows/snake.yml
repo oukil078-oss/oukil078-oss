@@ -16,6 +16,8 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
+      - name: Debug user
+        run: echo "GitHub user: ${{ github.actor }}"
       - name: Generate Snake SVG
         uses: platane/snk@v2
         with:
