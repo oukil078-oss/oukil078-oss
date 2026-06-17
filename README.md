@@ -1,7 +1,7 @@
 # Zakarya Oukil
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEF&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer+in+Progress+%E2%80%A2+Full-Stack+Builder+%E2%80%A2+DevSecOps+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFEF&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer+%7C+Full-Stack+Developer+%7C+CTF+Enthusiast+%7C+DevSecOps+Builder" alt="Typing SVG" />
 </div>
 
 > Building secure, AI-integrated web experiences with a hacker’s mindset and a designer’s precision.
@@ -10,7 +10,47 @@
 
 ## 🧠 About Me
 
-Full-Stack Developer & Cybersecurity Master's student based in Algiers, Algeria. I specialize in crafting secure, high-performance web applications while exploring offensive security, DevSecOps, and AI-driven defense. My work bridges elegant UI/UX with robust backend systems, all grounded in a zero-trust philosophy.
+Full-Stack Developer & Cybersecurity Master's student from Algiers, Algeria. I specialize in crafting secure, high-performance web applications while exploring offensive security, DevSecOps, and AI-driven defense. My work bridges elegant UI/UX with robust backend systems, all grounded in a zero-trust philosophy.
+
+---
+
+## 🔐 Cybersecurity Focus
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Offensive%20Security-%23FF0000.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Offensive Security"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Defensive%20Engineering-%2300FF00.svg?style=for-the-badge&logo=shield-ui&logoColor=black" alt="Defensive Engineering"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cryptography-%230000FF.svg?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI%20for%20Security-%23FF00FF.svg?style=for-the-badge&logo=brain&logoColor=white" alt="AI for Security"></td>
+  </tr>
+</table>
+
+- **Offensive Security**: Web app penetration testing, network reconnaissance, CTF Writeups  
+- **Defensive Engineering**: Secure SDLC, threat modeling, runtime protection, WAF evasion analysis  
+- **Cryptography**: Applied TLS, JWT hardening, zero-knowledge prototypes  
+- **AI for Security**: Anomaly detection, ML-powered scanners, LLM prompt injection testing  
+
+Current certifications in progress: eJPT, OSCP pathway.
+
+---
+
+## ☁️ DevOps & Cloud
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/CI%2FCD-%23FF8C00.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"></td>
+    <td align="center"><img src="https://img.shields.io/badge/IaC-%2300BFFF.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="IaC"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Observability-%2332CD32.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Observability"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Serverless-%239400D3.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Serverless"></td>
+  </tr>
+</table>
+
+- **CI/CD**: GitHub Actions, GitLab CI, ArgoCD pipelines with security scanning (Trivy, Snyk)  
+- **IaC**: Terraform, Helm, Kubernetes manifests with built-in policy enforcement (OPA/Gatekeeper)  
+- **Observability**: Prometheus/Grafana, ELK stack, distributed tracing via Jaeger  
+- **Serverless**: AWS Lambda security layers, Azure Functions with managed identity  
+
+Infrastructure treated as code, pipelines as security gates.
 
 ---
 
@@ -42,28 +82,6 @@ Full-Stack Developer & Cybersecurity Master's student based in Algiers, Algeria.
     <td><img src="https://img.shields.io/badge/badge/-OWASP-%23EF5350.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"></td>
   </tr>
 </table>
-
----
-
-## 🔐 Cybersecurity Focus
-
-- **Offensive Security**: Web app penetration testing, network reconnaissance, CTF Writeups  
-- **Defensive Engineering**: Secure SDLC, threat modeling, runtime protection, WAF evasion analysis  
-- **Cryptography**: Applied TLS, JWT hardening, zero-knowledge prototypes  
-- **AI for Security**: Anomaly detection, ML-powered scanners, LLM prompt injection testing  
-
-Current certifications in progress: eJPT, OSCP pathway.
-
----
-
-## ☁️ DevOps & Cloud
-
-- **CI/CD**: GitHub Actions, GitLab CI, ArgoCD pipelines with security scanning (Trivy, Snyk)  
-- **IaC**: Terraform, Helm, Kubernetes manifests with built-in policy enforcement (OPA/Gatekeeper)  
-- **Observability**: Prometheus/Grafana, ELK stack, distributed tracing via Jaeger  
-- **Serverless**: AWS Lambda security layers, Azure Functions with managed identity  
-
-Infrastructure treated as code, pipelines as security gates.
 
 ---
 
@@ -110,60 +128,6 @@ Infrastructure treated as code, pipelines as security gates.
 - **AI Red Team**: Building an LLM‑based prompt injection & jailbreak framework to evaluate generative AI services.  
 - **DevSecOps Automation**: Creating reusable GitHub Actions that automatically run SAST, DAST, and SBOM generation on every PR.  
 - **Open Source Contribution**: Maintaining a collection of CTF‑style challenge templates for web exploitation practice.
-
----
-
-## 🔍 Threat Model: Me
-
-| Attribute          | Value                                 |
-|--------------------|---------------------------------------|
-| **Online Presence**| Public portfolio, GitHub, LinkedIn    |
-| **Primary Assets** | Source code, project data, credentials|
-| **Threat Actors**  | Script kiddies, credential harvesters, targeted APTs (low likelihood) |
-| **Mitigations**    | MFA everywhere, SSH keys, hardware‑token 2FA, encrypted disks, least‑privilege IAM, regular key rotation |
-
----
-
-## 🖥️ Operational Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Fedora-%23156478.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
-  <img src="https://img.shields.io/badge/Pop!_OS-%2300B4D8.svg?style=for-the-badge&logo=system76&logoColor=white" alt="Pop!_OS">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-  <img src="https://img.shields.io/badge/Docker%20Desktop-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Desktop">
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</div>
-
----
-
-## 📓 Mission Log
-
-<details>
-  <summary>Jan 2026 – Present</summary>
-  <ul>
-    <li>Designed and deployed Z‑Shop with automated dependency scanners (Dependabot + Trivy).</li>
-    <li>Authored a whitepaper on “JWT Side‑Channel Timing Attacks in Serverless Functions”.</li>
-    <li>Top 10% in regional CTF qualifiers (Web exploitation category).</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Sep 2025 – Dec 2025</summary>
-  <ul>
-    <li>Implemented Zero‑Trust network segmentation for a microservices demo using Istio.</li>
-    <li>Contributed OWASP ASVS‑aligned security checklist to internal DevSecOps repo.</li>
-  </ul>
-</details>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake Contribution">
-</p>
 
 ---
 
