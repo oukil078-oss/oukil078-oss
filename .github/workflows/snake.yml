@@ -23,6 +23,10 @@ jobs:
         with:
           github_user_name: ${{ github.actor }}
           svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: List files
+        run: |
+          ls -la
+          ls -la dist/ 2>/dev/null || echo "dist not found"
       - name: Commit SVG
         run: |
           git config --local user.email "action@github.com"
