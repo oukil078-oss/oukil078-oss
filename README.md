@@ -1,3 +1,5 @@
+![Cybersecurity Background](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=60)
+
 # Zakarya Oukil
 
 <div align="center">
@@ -89,31 +91,37 @@ Infrastructure treated as code, pipelines as security gates.
 
 <table align="center">
   <tr>
+    <th align="center">Preview</th>
     <th align="left">Project</th>
     <th align="left">Description</th>
     <th align="left">Stack</th>
   </tr>
   <tr>
+    <td align="center"><img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=80&q=60" alt="Z-Shop preview" width="80"></td>
     <td><strong>Z-Shop</strong></td>
     <td>Nike-inspired e-commerce platform with end-to-end encryption, PCI‑DSS‑aligned payment flow, and Bot‑mitigation middleware.</td>
     <td>React • Node.js • PostgreSQL • Docker • JWT • Stripe</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=80&q=60" alt="Medibook preview" width="80"></td>
     <td><strong>Medibook</strong></td>
     <td>HIPAA‑sensitive healthcare booking system featuring role‑based access, audit logging, and encrypted PHI at rest.</td>
     <td>React • Firebase • TypeScript • Terraform</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=80&q=60" alt="Attendix preview" width="80"></td>
     <td><strong>Attendix</strong></td>
     <td>HR management web app with SSO (SAML/OIDC), real‑time attendance analytics, and insider‑threat detection via behavioral baselines.</td>
     <td>Figma • React • Express • MongoDB • Kubernetes</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=80&q=60" alt="Z-Budget preview" width="80"></td>
     <td><strong>Z-Budget</strong></td>
     <td>Personal finance tracker using client‑side encryption (WebCrypto), automatic categorization via ML, and offline‑first Sync.</td>
     <td>React • IndexedDB • Python (FastAPI) • WebAssembly</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=80&q=60" alt="Z-Weather preview" width="80"></td>
     <td><strong>Z-Weather</strong></td>
     <td>Atmospheric data visualization app that ingests NOAA APIs, applies rate‑limiting & input sanitization, and visualizes via WebGL + D3.</td>
     <td>React • D3.js • WebSocket • Nginx</td>
@@ -138,10 +146,10 @@ Infrastructure treated as code, pipelines as security gates.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://zakarya-oukil-flagship.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/oukil078-oss" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
