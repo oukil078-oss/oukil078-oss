@@ -201,7 +201,7 @@
       <a href="https://github.com/oukil078-oss/zakarya-oukil-flagship">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=oukil078-oss&repo=zakarya-oukil-flagship&theme=tokyonight&bg_color=0d1117&border_color=00FFEF" />
       </a>
-      <br/><i>Premium cinematic portfolio for Zakarya Oukil</i>
+      <br/><i>My Professional Portfolio</i>
     </td>
     <td align="center">
       <a href="https://github.com/oukil078-oss/za-chat">
